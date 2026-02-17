@@ -1,14 +1,14 @@
-<!-- Header Wave -->
+<!-- Header Wave Animation -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prince%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Developer%20%7C%20ML%20Engineer%20%7C%20Computer%20Vision%20Specialist&descAlignY=55&descSize=16"/>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/princesingh-ai-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%2B+Computer+Vision+Engineer+%F0%9F%91%81%EF%B8%8F;Real-Time+ML+%26+Deep+Learning+%F0%9F%A7%A0;Open+to+AI%2FML+Roles+in+Bangalore+%F0%9F%9A%80;Turning+Ideas+into+Intelligent+Code+%E2%9C%A8" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%2B+Computer+Vision+Engineer+%F0%9F%91%81%EF%B8%8F;Real-Time+ML+%26+Deep+Learning+%F0%9F%A7%A0;Open+to+AI%2FML+Roles+in+Bangalore+%F0%9F%9A%80;5+Production-Ready+AI+Projects+%E2%9C%A8;Voice+AI+%7C+Object+Detection+%7C+Gesture+Control+%F0%9F%94%A5" alt="Typing SVG"/>
   </a>
 </p>
 
-<!-- Badges Row -->
+<!-- Social Badges Row -->
 <p align="center">
   <a href="https://www.linkedin.com/in/prince-singh-a4b45b337">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -23,10 +23,17 @@
   <img src="https://komarev.com/ghpvc/?username=princesingh-ai-dev&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 </p>
 
+<!-- Quick Stats Metrics -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML%20%2F%20Computer%20Vision-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Projects-5%20Production--Ready-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Location-India%20→%20Bangalore-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript-yellow?style=flat-square"/>
+</p>
+
 <br/>
 
-<!-- About Me -->
-## 🧠 About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
 ```python
 class PrinceSingh:
@@ -56,20 +63,39 @@ class PrinceSingh:
 
 ---
 
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Skill Proficiency
+
+<p align="center">
+
+| Domain | Proficiency | Technologies |
+|:------:|:-----------:|:-------------|
+| **AI / ML** | ![](https://geps.dev/progress/90) | PyTorch · TensorFlow · scikit-learn · HuggingFace |
+| **Computer Vision** | ![](https://geps.dev/progress/92) | OpenCV · YOLOv8/v10 · MediaPipe · TensorRT |
+| **NLP & Voice AI** | ![](https://geps.dev/progress/85) | Faster Whisper · Edge-TTS · Groq/Llama · LangChain |
+| **Python** | ![](https://geps.dev/progress/95) | NumPy · Pandas · Flask · PyQt6 · asyncio |
+| **JavaScript** | ![](https://geps.dev/progress/70) | Node.js · Express · face-api.js · TensorFlow.js |
+| **DevOps & Tools** | ![](https://geps.dev/progress/72) | Git · GitHub Actions · Docker · Linux · CUDA |
+
+</p>
+
+<br/>
+
+---
+
 ## 🔥 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 [JARVIS Voice Assistant](https://github.com/princesingh-ai-dev/JARVIS-Voice-Assistant)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="20"> [JARVIS Voice Assistant](https://github.com/princesingh-ai-dev/JARVIS-Voice-Assistant)
 > AI voice assistant with Whisper STT + Groq/Llama 3.1 LLM + Edge-TTS
 
 - ⚡ ~1.5s end-to-end latency
 - 🎤 GPU-accelerated Faster Whisper
 - 🗣️ 10+ natural voices via Edge-TTS
 - 🛠️ Wake word · system control · YouTube · weather
-- 💰 $0/month cost architecture
+- 💰 **$0/month** cost architecture
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -78,10 +104,10 @@ class PrinceSingh:
 </td>
 <td width="50%">
 
-### 👁️ [Real-Time Object Detection](https://github.com/princesingh-ai-dev/Real-Time-Object-Detection-System)
+### <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="20"> [Real-Time Object Detection](https://github.com/princesingh-ai-dev/Real-Time-Object-Detection-System)
 > YOLOv8/v10 + TensorRT with live GPU performance dashboard
 
-- 🚀 ~60 FPS with TensorRT on RTX 2050
+- 🚀 **~60 FPS** with TensorRT on RTX 2050
 - 🎯 80+ object classes, 3 accuracy modes
 - 📊 Live CPU/RAM/GPU monitoring UI
 - 🔌 Multi-camera auto-scan support
@@ -100,7 +126,7 @@ class PrinceSingh:
 > Hands-free computer control via MediaPipe + SVM
 
 - ⚡ <100ms recognition latency
-- 🎯 95%+ accuracy, 30 FPS real-time
+- 🎯 **95%+** accuracy, 30 FPS real-time
 - 🖐️ 5 gestures → configurable OS commands
 - 📦 JSON-configurable mapping + training mode
 
@@ -197,24 +223,58 @@ class PrinceSingh:
 
 ## 📊 GitHub Analytics
 
+<!-- Stats + Languages Side by Side -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=princesingh-ai-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princesingh-ai-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </p>
 
+<!-- Streak Stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=princesingh-ai-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6AD3F7&sideLabels=6AD3F7&dates=888888" alt="GitHub Streak"/>
 </p>
 
+<!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=princesingh-ai-dev&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=princesingh-ai-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
 </p>
 
 <br/>
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Activity
+
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/princesingh-ai-dev">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=princesingh-ai-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&area_color=6AD3F7" alt="Activity Graph"/>
+  </a>
+</p>
+
+<!-- 3D Contribution Calendar -->
+<p align="center">
+  <a href="https://github.com/princesingh-ai-dev">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princesingh-ai-dev&theme=tokyonight" alt="Profile Details"/>
+  </a>
+</p>
+
+<!-- Summary Cards Row -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=princesingh-ai-dev&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=princesingh-ai-dev&theme=tokyonight" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=princesingh-ai-dev&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=princesingh-ai-dev&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+</p>
+
+<br/>
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/princesingh-ai-dev/princesingh-ai-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
@@ -224,9 +284,39 @@ class PrinceSingh:
 
 ---
 
-## 📈 Activity Graph
+## ⚡ Performance Highlights
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=princesingh-ai-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF)](https://github.com/princesingh-ai-dev)
+<p align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                   🏆 PROJECT METRICS                        ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  🤖 JARVIS Voice Assistant                                   ║
+║     ├── End-to-End Latency:    ~1.5s  ████████████░░ Fast    ║
+║     ├── Monthly Cost:          $0     ██████████████ Free    ║
+║     └── Voice Options:         10+    ████████████░░         ║
+║                                                              ║
+║  👁️ Object Detection (YOLOv8 + TensorRT)                     ║
+║     ├── FPS (TensorRT):        60+    █████████████░ Blazing ║
+║     ├── Object Classes:        80+    ██████████████         ║
+║     └── GPU Acceleration:      CUDA   ██████████████ Yes     ║
+║                                                              ║
+║  ✋ Gesture Control                                           ║
+║     ├── Recognition Latency:   <100ms ██████████████ Fast    ║
+║     ├── Accuracy:              95%+   █████████████░         ║
+║     └── Real-Time FPS:         30     █████████░░░░░         ║
+║                                                              ║
+║  🔐 Face Authentication                                      ║
+║     ├── Detection:             Real-Time ████████████████    ║
+║     ├── Encryption:            AES-256   ██████████████ Yes  ║
+║     └── Privacy:               Local-First ██████████████    ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</p>
 
 <br/>
 
@@ -254,5 +344,8 @@ class PrinceSingh:
   <b>💡 Open to:</b> Full-time AI/ML roles · Research collaborations · Open-source contributions · Freelance AI projects
 </p>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+</p>
