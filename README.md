@@ -22,7 +22,7 @@
 class PrinceSingh:
     def __init__(self):
         self.role = "AI Developer & ML Engineer"
-        self.education = "B.Tech Computer Science (Recent Graduate)"
+        self.education = "Bachelor of Computer Application (Recent Graduate)"
         self.location = "India 🇮🇳"
         self.interests = ["Computer Vision", "Deep Learning", "NLP", "Real-Time AI Systems"]
         self.currently_building = "Intelligent systems that see, hear, and act"
