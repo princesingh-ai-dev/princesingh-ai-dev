@@ -1,12 +1,10 @@
 <!-- Header Wave Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prince%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Developer%20%7C%20ML%20Engineer%20%7C%20Computer%20Vision%20Specialist&descAlignY=55&descSize=16"/>
-
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://github.com/princesingh-ai-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%2B+Computer+Vision+Engineer+%F0%9F%91%81%EF%B8%8F;Real-Time+ML+%26+Deep+Learning+%F0%9F%A7%A0;Open+to+AI%2FML+Roles+in+Bangalore+%F0%9F%9A%80;5+Production-Ready+AI+Projects+%E2%9C%A8;Voice+AI+%7C+Object+Detection+%7C+Gesture+Control+%F0%9F%94%A5" alt="Typing SVG"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7b2cbf&height=220&section=header&text=Prince%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%7C%20Machine%20Learning%20Engineer&descAlignY=55&descSize=25" width="100%"/>
+  
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio_Website-princesingh--ai--dev.github.io-blue?style=for-the-badge&logo=github)](https://princesingh-ai-dev.github.io)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Building+Intelligent+Real-Time+Systems;Specialized+in+Computer+Vision+%26+NLP;Optimizing+AI+for+Edge+Devices;Developing+Voice-Controlled+Assistants)](https://git.io/typing-svg)
+</div>
 
 <!-- Social Badges Row -->
 <p align="center">
