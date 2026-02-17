@@ -1,6 +1,6 @@
 <!-- Header Wave Animation -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7b2cbf&height=220&section=header&text=Prince%20Singh&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%7C%20Machine%20Learning%20Engineer&descAlignY=55&descSize=25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7b2cbf&height=220&section=header&text=Prince%20Singh&fontSize=65&animation=fadeIn&fontAlignY=32&desc=AI%20Developer%20%7C%20Machine%20Learning%20Engineer&descAlignY=62&descSize=22" width="100%"/>
   
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio_Website-princesingh--ai--dev.github.io-blue?style=for-the-badge&logo=github)](https://princesingh-ai-dev.github.io)
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=Building+Intelligent+Real-Time+Systems;Specialized+in+Computer+Vision+%26+NLP;Optimizing+AI+for+Edge+Devices;Developing+Voice-Controlled+Assistants)](https://git.io/typing-svg)
